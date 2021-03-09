@@ -10,6 +10,7 @@ Django  CRUD project using python ,django rest framework and swagger
 4.Activate the virtual environment by running source venv/bin/activate
 
  On Windows use source venv\Scripts\activate
+ 
 5.Install the dependencies using pip install -r requirements.txt
 
 6.Migrate existing db tables by running python manage.py migrate
